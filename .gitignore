@@ -1,0 +1,16 @@
+servicetraining/target/
+servicetraining/test-output/
+servicetraining/pom.xml.tag
+servicetraining/pom.xml.releaseBackup
+servicetraining/pom.xml.versionsBackup
+servicetraining/pom.xml.next
+servicetraining/release.properties
+servicetraining/dependency-reduced-pom.xml
+servicetraining/buildNumber.properties
+servicetraining/.mvn/timing.properties
+# https://github.com/takari/maven-wrapper#usage-without-binary-jar
+servicetraining/.mvn/wrapper/maven-wrapper.jar
+node_modules/
+package-lock.json
+SimpleRestApi/node_modules/
+SimpleRestApi/package-lock.json
